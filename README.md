@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aswath Cm
 =================================================================================================================================
 
-Data Analytics, and Data Science • Competitive Programming • App Development • MERN Stack Development
------------------------------------------------------------------------------------------------------
+Data Science • Competitive Programming • App Development • MERN Stack Development
+---------------------------------------------------------------------------------
 
-🎓 Enthusiastic college student 🚀 dedicated to impactful projects and competitive programming 🏆. Passionate about making a mark in the tech industry 💡. Excited to collaborate with like-minded individuals 👥 and explore Data Analytics, Data Science 📊, App Development, and MERN Stack 🔎. Let's connect and drive tech innovation! #TechEnthusiast #Collaboration 🌐💻
+🎓 Enthusiastic college student 🚀 dedicated to impactful projects and competitive programming . Passionate about making a mark in the tech industry . Excited to collaborate with like-minded individuals and explore Data Science 📊, App Development, and MERN Stack . Let's connect and drive tech innovation! #TechEnthusiast #Collaboration 🌐💻
 
 * ✉️  You can contact me at [www.linkedin.com/in/aswath-cm-593278257](mailto:www.linkedin.com/in/aswath-cm-593278257)
 * 🧠  I'm learning Data Analytics and Data Science
