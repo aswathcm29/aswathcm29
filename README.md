@@ -22,8 +22,17 @@ Data Science • Competitive Programming • App Development • MERN Stack Deve
 <p align="left"> <a href="https://www.github.com/aswathcm29" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aswath-cm-593278257/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aswathcm29"><img src="https://github-readme-stats.vercel.app/api?username=aswathcm29&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="aswathcm29's GitHub stats" /></a>
+<p>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=aswathcm29&count_private=true&show_icons=true&theme=react" display:/>
+    <img width="425" src="https://streak-stats.demolab.com/?user=aswathcm29&theme=react" />
+</p>
 
-<a href="http://www.github.com/aswathcm29"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aswathcm29&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/aswathcm29" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathcm29&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
+<h4>My Github Contribution</h4>
+<p>
+  <a href="https://github.com/aswathcm29">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswathcm29&theme=react" alt="Aswath CM GitHub Contribution"/>
+  </a>
+</p>
+<br>
+<a href="https://github.com/aswathcm29" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathcm29&langs_count=10&theme=react&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
