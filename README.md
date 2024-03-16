@@ -35,4 +35,4 @@ Data Science • Competitive Programming • App Development • MERN Stack Deve
   </a>
 </p>
 <br>
-<a href="https://github.com/aswathcm29" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathcm29&langs_count=10&theme=react&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
