@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 [![An image of @aswathcm29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aswathcm29)](https://holopin.io/@aswathcm29)
 
-Full Stack Developer • AI and ML Learner • Freelancer • MERN Stack
+Full Stack Developer • Freelancer • AI ML Learner • MERN Stack 
 ---------------------------------------------------------------------------------
 
 🎓 Enthusiastic college student 🚀 dedicated to impactful projects and competitive programming . Passionate about making a mark in the tech industry . Excited to collaborate with like-minded individuals and explore Data Science 📊, App Development, and MERN Stack . Let's connect and drive tech innovation! #TechEnthusiast #Collaboration 🌐💻
