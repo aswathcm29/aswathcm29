@@ -8,7 +8,7 @@ Full Stack Developer • Freelancer • Data Science • AI ML Learner • MERN 
 🎓 Enthusiastic college student 🚀 dedicated to impactful projects and competitive programming . Passionate about making a mark in the tech industry . Excited to collaborate with like-minded individuals and explore Data Science 📊, App Development, and MERN Stack . Let's connect and drive tech innovation! #TechEnthusiast #Collaboration 🌐💻
 
 * ✉️  You can contact me at [www.linkedin.com/in/aswath-cm-593278257](mailto:www.linkedin.com/in/aswath-cm-593278257)
-* 🧠  I'm currently learning Data Science
+* 🧠  I'm currently learning Machine Learning
 * 🤝  I'm open to collaborating on Innovative Tech Projects , App Development Ventures , MERN Stack Projects
 
 ### Skills
