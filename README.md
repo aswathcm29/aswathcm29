@@ -12,7 +12,7 @@ Full Stack Developer • Freelancer • Data Science • AI ML Learner • MERN 
 
 * ✉️  You can contact me at [www.linkedin.com/in/aswath-cm-593278257](mailto:www.linkedin.com/in/aswath-cm-593278257)
 * 🧠  I'm currently learning Machine Learning
-* 🤝  I'm open to collaborating on Innovative Tech Projects, Open source projects, MERN Stack and ML Projects
+* 🤝  I'm open to collaborating on Innovative Tech Projects, Open source projects, MERN Stack and ML Projects 
 
 ### Skills
 
